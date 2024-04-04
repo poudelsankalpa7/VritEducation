@@ -1,2 +1,0 @@
-This is test file to check Git Features.
-Testing github.
